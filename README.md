@@ -8,3 +8,7 @@
  ### hello  
  Simple hello world program in assembly  
  Example command line: `hello` 
+
+ ### keytest  
+ test key from keyboard  
+ Example command line: `keytest` 
